@@ -42,7 +42,7 @@ graph TD
   G --> H[1789<br/>George Washington, primer presidente]
 ```
 
-2️⃣ Revolución Americana – Línea temporal
+2️⃣ [Revolución Americana – Línea temporal](https://www.youtube.com/watch?v=F0C7Cju1NFc&list=PLmD-AwX9TN2_VVg6sXjF3_IoWvF_UKzUU&index=4)
 ```mermaid
 timeline
   title Revolución Americana
