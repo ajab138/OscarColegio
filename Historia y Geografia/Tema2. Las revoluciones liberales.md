@@ -155,7 +155,7 @@ graph TD
   A[Antes de 1850<br/>Italia dividida en varios Estados] --> B[Sentimiento nacional italiano<br/>lengua e historia comunes]
   B --> C[1859<br/>Piamonte inicia la unificación]
   C --> D[1860<br/>Expedición de Garibaldi en el sur]
-  D --> E[1861<br/>Víctor Manuel II rey de Italia (parcial)]
+  D --> E[1861<br/>Víctor Manuel II rey de Italia ]
   E --> F[1866<br/>Incorporación del Véneto]
   F --> G[1870<br/>Anexión de Roma]
   G --> H[Italia unificada con capital en Roma]
