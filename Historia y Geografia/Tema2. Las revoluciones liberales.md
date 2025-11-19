@@ -10,7 +10,7 @@ timeline
   1859-1871 : Unificaciones nacionales (Italia y Alemania)
 ```
 
-1️⃣ Fin del Antiguo Régimen – Línea temporal
+1️⃣ [Fin del Antiguo Régimen (RECORDATORIO TEMA ANTERIOR)](https://www.youtube.com/watch?v=eqRZWAH--UA) 
 ```mermaid
 timeline
   title Fin del Antiguo Régimen
@@ -36,7 +36,7 @@ timeline
   1789 : George Washington, primer presidente
 ```
 
-  3️⃣ [Revolución Francesa](https://www.youtube.com/watch?v=XygZjE5pkqA&list=PLmD-AwX9TN2_VVg6sXjF3_IoWvF_UKzUU&index=5)
+  3️⃣ [Revolución Francesa](https://www.youtube.com/watch?v=DBDLXLvySE4)
 ```mermaid
 timeline
   title Revolución Francesa
@@ -74,7 +74,7 @@ timeline
   1815 : Cuádruple Alianza (Reino Unido, Austria, Prusia, Rusia) Mantener el orden y evitar revoluciones (Militarmente si es necesario)
   1818 : Quíntuple Alianza (+ Francia)
 ```
-  6️⃣ Revoluciones de 1820-1848
+  6️⃣ [Revoluciones de 1820-1848](https://www.youtube.com/watch?v=MNsuPI3iTPg&t=100s)
 ```mermaid
 timeline
   title Revoluciones liberales y nacionalistas
@@ -86,12 +86,12 @@ timeline
   7️⃣ Nacionalismos y Unificaciones
   ```mermaid
 graph TD
-  A[Nacionalismo coge fuerza tras el congreso de Viena] --> B[Culturas sometidas a Estados o imperios de los que no se sentían parte]
-  B --> C[2 tipos de nacionalismo:<br/>-<b>Disgregadores</b>: buscan independencia. Ej. Bélgica se separó de Países Bajos<br/>-<b>Agregadores</b>: buscan unificación. Ej. Italia y Alemania]
+  A[1.Nacionalismo coge fuerza tras el congreso de Viena] --> B[2. Culturas sometidas a Estados o imperios de los que no se sentían parte]
+  B --> C[3. Tipos de nacionalismo:<br/>-<b>Disgregadores</b>: buscan independencia. Ej. Bélgica se separó de Países Bajos<br/>-<b>Agregadores</b>: buscan unificación. Ej. Italia y Alemania]
 ```
 
 
-  7️⃣ Unificación Italiana (1859-1870) – Línea temporal
+  7️⃣ [Unificación Italiana (1859-1870)](https://www.youtube.com/watch?v=-X1gdGE1gOs&list=PLmD-AwX9TN2_VVg6sXjF3_IoWvF_UKzUU&index=7)
 ```mermaid
 timeline
   title Unificación de Italia
@@ -99,7 +99,7 @@ timeline
 ```
 
     
-  8️⃣ Unificación Alemana – Línea temporal
+  8️⃣ [Unificación Alemana (1864-1871)](https://www.youtube.com/watch?v=w5T9G1AA8p0&list=PLmD-AwX9TN2_VVg6sXjF3_IoWvF_UKzUU&index=8)
 ```mermaid
 timeline
   title Unificación de Alemania
